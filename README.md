@@ -1,260 +1,75 @@
-<div align="center">
-
-# 👋 Hi, I'm Dharshini R
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=Aspiring+Software+Engineer;Full+Stack+Developer;Java+%7C+Spring+Boot+Developer;AI+%26+Machine+Learning+Student;Building+Intelligent+Web+Applications"/>
-
-<p>
-<img src="https://komarev.com/ghpvc/?username=Dharshinitrd&label=Profile+Views&color=0e75b6&style=flat"/>
-<img src="https://img.shields.io/github/followers/Dharshinitrd?style=social"/>
-<img src="https://img.shields.io/github/stars/Dharshinitrd?affiliations=OWNER&style=social"/>
-</p>
-
-### 🚀 Turning Ideas into Intelligent Software
-
-</div>
-
----
-
-# 💫 About Me
-
-🎓 **B.E Computer Science Engineering (AI & Machine Learning)**
-
-🏫 V.S.B Engineering College
-
-📍 Karur, Tamil Nadu
-
-💻 Passionate about
-
-- Full Stack Development
-- Java Backend Development
-- Artificial Intelligence
-- Machine Learning
-- Building scalable applications
-
-🌱 Currently Learning
-
-- Spring Boot
-- React
-- REST APIs
-- System Design
-- Data Structures & Algorithms
-
-💬 Ask me about
-
-- Java
-- HTML
-- CSS
-- JavaScript
-- Python
-- MySQL
-- Machine Learning
-
-📫 **Email**
-
-**dharshini.trd@gmail.com**
-
----
-
-# ⚡ Tech Arsenal
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=java,python,javascript"/>
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js"/>
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=spring"/>
-
-### Database
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-### AI & ML
-
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea"/>
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-## 🤖 AI Resume Detector
-
-> Intelligent Resume Screening System using NLP.
-
-✨ Features
-
-- Resume Parsing
-- Skill Extraction
-- Candidate Matching
-- Streamlit Interface
-
----
-
-## 🩺 X-Ray Pneumonia Detection
-
-Deep Learning application for medical diagnosis.
-
-**Technology**
-
-- TensorFlow
-- CNN
-- Python
-- Image Processing
-
-🔗 https://github.com/Dharshinitrd/X-RAY
-
----
-
-## 🛠 AI Debugging Agent
-
-AI-powered debugging assistant.
-
-### Features
-
-- Error Detection
-- Code Analysis
-- Intelligent Suggestions
-- LLM Integration
-- Full Stack Interface
-
----
-
-# 💼 Experience
-
-## 🌐 Web Development Intern
-
-### WE Touch
-
-- Developed responsive web applications
-- Improved UI/UX
-- Debugged applications
-- Worked with development teams
-
----
-
-## 💻 Virtual Intern
-
-### Infosys Springboard
-
-- Java Programming
-- Artificial Intelligence
-- Software Development
-- Hands-on Projects
-
----
-
-# 🏆 Certifications
-
-🏅 NPTEL – Introduction to Machine Learning (Elite)
-
-🏅 Infosys Springboard – Java Programming
-
-🏅 Salesforce – AI with Agentforce Foundations
-
-🏅 Cisco – IoT & Digital Transformation
-
-🏅 Wipro – Data Science for Beginners
-
----
-
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dharshinitrd&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharshinitrd&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Dharshinitrd&theme=tokyonight"/>
-
-</div>
-
----
-
-# 📊 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dharshinitrd&theme=tokyo-night"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Dharshinitrd&theme=tokyonight&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
-# 🎯 2026 Goals
-
-- 🚀 Master Spring Boot
-- ⚛ Learn React
-- ☁ Learn Cloud Computing
-- 🤝 Contribute to Open Source
-- 💼 Secure a Software Engineer Internship
-- 📚 Solve 500+ DSA Problems
-
----
-
-# 🌐 Connect With Me
+<h1 align="center">Hi 👋, I'm Dharshini R</h1>
+<h3 align="center">Full Stack Web Developer | AI & Machine Learning Enthusiast</h3>
 
 <p align="center">
-
-<a href="mailto:dharshini.trd@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/dharshini-ramachandran-334347326">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Dharshinitrd">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/dharshini-ramachandran-334347326/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:dharshini.trd@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Karur,%20Tamil%20Nadu-blue?style=for-the-badge" />
 </p>
 
 ---
 
-# 💡 Quote
+### 🚀 About Me
 
-<div align="center">
+I'm a Computer Science Engineering student (AI & Machine Learning) building full stack web applications and AI-powered tools. I enjoy designing responsive, user-friendly interfaces and connecting them to real logic on the backend — from debugging assistants to NLP-driven resume tools. Currently sharpening my skills in Java, Python, and modern web technologies while applying machine learning to solve practical problems.
 
-### *"Every expert was once a beginner. Keep building, keep learning."* 🚀
-
-</div>
+- 🎓 B.E. Computer Science Engineering (AI & Machine Learning), V.S.B Engineering College (2023 – 2027) — CGPA: 7.97
+- 💻 Full stack web development: HTML, CSS, JavaScript, responsive UI design
+- 🤖 Applied AI/ML: Machine Learning, Deep Learning, NLP, TensorFlow, LLM integration
+- 🌱 Currently exploring: backend architecture, API design, and deployment workflows
+- 📫 Reach me at **dharshini.trd@gmail.com**
 
 ---
 
-<div align="center">
+### 🛠️ Tech Stack
 
-## ⭐ Thank You for Visiting My Profile ⭐
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</p>
 
-### Let's build something amazing together!
+---
 
-</div>
+### 💼 Featured Projects
+
+**🩺 [AI Debugging Agent](https://debug-agent-6.onrender.com/)**
+An interactive full-stack web application that analyzes code, explains errors, and generates intelligent fixes using LLMs — integrating a front-end interface with backend logic for real-time debugging support.
+
+**📄 [AI Resume Analyzer & RAG Chatbot](https://ae9ewteof2ecy5tbjnrnjy.streamlit.app/)**
+A deployed AI-powered resume analyzer and RAG chatbot using NLP-based semantic search, with sentence embeddings and cosine similarity for document question answering.
+
+**🔍 [AI Resume Detector](https://resume-detect-ztssdofw2rvrgsr5smmwvq.streamlit.app/)**
+An NLP-based resume screening system that extracts candidate skills and matches them against job requirements.
+
+---
+
+### 🎓 Certifications
+
+- NPTEL – Introduction to Machine Learning (Elite)
+- Infosys Springboard – Java Programming
+- Cisco – Introduction to IoT and Digital Transformation
+- Salesforce – AI with Agentforce Foundations
+- Wipro – Data Science for Beginners
+- SAP – Fiori Fundamentals
+- TenzorX National AI Hackathon 2026
+
+---
+
+### 🌐 Languages
+
+Tamil (Mother Tongue) &nbsp;|&nbsp; English (Intermediate) &nbsp;|&nbsp; Telugu (Well Known)
+
+---
+
+<p align="center"><i>Thanks for stopping by — let's connect and build something great! 🚀</i></p>
