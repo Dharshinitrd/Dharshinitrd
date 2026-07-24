@@ -7,8 +7,24 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=Dharshinitrd&label=Profile+Views&color=0e75b6&style=flat-square"/>
   <img src="https://img.shields.io/github/followers/Dharshinitrd?style=flat-square&color=blue"/>
-  <img src="https://img.shields.io/badge/Location-Karur,%20Tamil%20Nadu-informational?style=flat-square"/>
 </p>
+
+<p>
+  <a href="mailto:dharshini.trd@gmail.com">
+    <img src="https://img.shields.io/badge/dharshini.trd%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/dharshini-ramachandran-334347326/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Dharshinitrd">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="tel:+919626322238">
+    <img src="https://img.shields.io/badge/+91%209626322238-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+</p>
+
+<img src="https://img.shields.io/badge/Karur%2C%20Tamil%20Nadu-informational?style=flat-square"/>
 
 </div>
 
@@ -139,6 +155,16 @@ A CNN-based deep learning model that detects pneumonia from chest X-ray images, 
   <a href="https://github.com/Dharshinitrd">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="tel:+919626322238">
+    <img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://debug-agent-6.onrender.com/">AI Debugging Agent</a> &nbsp;•&nbsp;
+  <a href="https://ae9ewteof2ecy5tbjnrnjy.streamlit.app/">Resume Analyzer & RAG Chatbot</a> &nbsp;•&nbsp;
+  <a href="https://resume-detect-ztssdofw2rvrgsr5smmwvq.streamlit.app/">AI Resume Detector</a> &nbsp;•&nbsp;
+  <a href="https://github.com/Dharshinitrd/X-RAY">X-Ray Pneumonia Detection</a>
 </p>
 
 ---
